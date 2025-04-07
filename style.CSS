@@ -60,8 +60,8 @@ main{
         display: flex;
         align-items: center;
 
-        input{
-            background: trasparent;
+        input {
+            background: transparent;
             border: none;
             text-align: right;
             width: 100%;
